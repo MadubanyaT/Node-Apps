@@ -1,0 +1,7 @@
+{
+    "name": "Cars_App - Development",
+    "mail": {
+        "host": "dev-mail-server"
+    },
+    "test": "Testing development settings"
+}
